@@ -74,6 +74,18 @@ button:hover {
     text-align: center;
     bottom: 10%;
     color: #ffc22d;
-    font-size: 3rem;
+    font-size: 2.5rem;
     font-weight: 600;
+}
+
+@media (max-width: 600px) {
+    #subtitle {
+        font-size: 2rem;
+    }
+}
+
+@media (max-width: 450px) {
+    #subtitle {
+        font-size: 1.5rem;
+    }
 }
