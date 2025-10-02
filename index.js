@@ -73,7 +73,7 @@ submitBtn.addEventListener("click", () => {
     }
 
     const messages = [
-        [`Mời ${s1} đến dự lễ tốt nghiệp của ${s2} Hùng`, [10, 31.25]],
+        [`Mời ${s1} đến dự lễ tốt nghiệp của ${s2} Sơn`, [10, 31.25]],
         ["Thời gian: 10h sáng thứ 7 ngày 4/10/2025", [31.25, 50]],
         ["Địa điểm: Hội trường C2 - Đại học Bách khoa Hà Nội", [50, 75]],
         [`Rất vui khi có sự có mặt của ${s1} trong buổi lễ`, [75, 99]]
